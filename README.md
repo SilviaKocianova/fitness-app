@@ -52,10 +52,10 @@ https://www.figma.com/design/8qXaIiz96Uunxu7wd41yM8/Fitness-app?node-id=0-1&t=h7
 
 
 ## Getting Started
-### git clone https://github.com/your-username/workout-app.git
-### cd workout-app
-### npm install
-### npm start
+1) git clone https://github.com/your-username/workout-app.git
+2) cd workout-app
+3) npm install
+4) npm start
 
 
 
